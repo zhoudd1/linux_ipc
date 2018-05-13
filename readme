@@ -1,0 +1,7 @@
+1)shm
+2)shm_sem
+3)shm_fifo
+4)msg_queue
+5)sem_ping_pong
+6)signal
+7)sem_thread_sync

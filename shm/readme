@@ -1,0 +1,14 @@
+编译：
+
+gcc write_shm.c -o write_shm
+gcc read_shm.c -o read_shm
+
+先运行写入 SHM：
+
+./write_shm
+
+再运行读取 SHM：
+
+./read_shm
+I'm share memory
+
